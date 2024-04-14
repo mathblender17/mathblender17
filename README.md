@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Machine Learning , Blockchain , Web dev**
 
-- 📝 I regularly write articles on [https://medium.com/@mathblender17](https://medium.com/@mathblender17)
+- 📝 I  write articles on [https://medium.com/@mathblender17](https://medium.com/@mathblender17)
 
-- ⚡ **The More you Learn the more you Earn**
+- ⚡ **The More You Learn the More You Earn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
