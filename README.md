@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Machine Learning , Blockchain , Web dev**
 
-- 📝 I  write articles on [https://medium.com/@mathblender17](https://medium.com/@mathblender17)
-
 - ⚡ **The More You Learn the More You Earn**
 
 <h3 align="left">Connect with me:</h3>
