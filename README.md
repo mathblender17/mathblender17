@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghraj</h1>
 <h3 align="center">A passionate Problem Solver from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning , Blockchain , Web dev**
+- 🌱 I’m currently learning **Machine Learning , Blockchain and Agro-Market**
 
 - ⚡ **The More You Learn the More You Earn**
 
